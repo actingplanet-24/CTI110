@@ -1,2 +1,4 @@
-# CTI110
-CTI110 Repository For School
+# CTI110 Repository
+Created for P1LAB1
+Tracy
+7-February-2023
